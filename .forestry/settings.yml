@@ -7,9 +7,8 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: post2/**/*
+  path: content/post2/**/*
   label: post2222
-  match: "**/*"
 - type: document
   path: content/_index.md
   label: Home
