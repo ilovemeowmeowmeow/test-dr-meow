@@ -1,4 +1,9 @@
 ---
 label: Post2
 hide_body: false
-fields: []
+fields:
+- name: aaa
+  type: text
+  config:
+    required: false
+  label: aaa
